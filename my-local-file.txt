@@ -1,1 +1,2 @@
 Sou o Aluno A. Vou fazer merge
+Sou o Aluno A do branchA
